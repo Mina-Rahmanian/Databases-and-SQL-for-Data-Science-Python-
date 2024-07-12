@@ -51,7 +51,7 @@ To run the notebook:
 
 ## Project Problems
 
-The notebook addresses several questions using SQL queries. You could find the answer here.
+The notebook addresses several questions using SQL queries. You could find the answer [here](https://github.com/Mina-Rahmanian/Databases-and-SQL-for-Data-Science-Python-/blob/main/Chicago%20Datasets%20Analysis%20with%20SQLite%20and%20Python.ipynb).
 
 
 
