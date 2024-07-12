@@ -47,7 +47,7 @@ The notebook establishes connections to `FinalDB.db` and populates these tables 
 To run the notebook:
 1. Ensure you have Python, Pandas, SQLite, and Jupyter installed.
 2. Clone this repository.
-3. Open the notebook and execute cells to load data, perform analysis, and answer assignment questions.
+3. Open the notebook and execute cells to load data, perform analysis, and answer project questions.
 
 ## Assignment Problems
 
