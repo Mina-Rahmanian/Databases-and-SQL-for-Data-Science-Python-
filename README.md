@@ -65,7 +65,7 @@ To run the notebook:
 
 ## Assignment Problems
 
-The notebook addresses several assignment questions using SQL queries. Here are a few examples:
+The notebook addresses several assignment questions using SQL queries. You could find the answer here.
 
 
 
