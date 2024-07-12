@@ -12,7 +12,7 @@ This repository contains a Python Jupyter Notebook designed for the graded asses
 
 ## Introduction
 
-This repository contains a Python notebook for analyzing three key datasets from the city of Chicago: socioeconomic indicators, public schools data, and crime data. The notebook uses SQLite for data manipulation and SQL queries to answer assignment questions.
+This repository contains a Python notebook for analyzing three key datasets from the city of Chicago: socioeconomic indicators, public schools data, and crime data. The notebook uses SQLite for data manipulation and SQL queries to answer questions.
 
 ## Datasets Used
 
@@ -47,11 +47,11 @@ The notebook establishes connections to `FinalDB.db` and populates these tables 
 To run the notebook:
 1. Ensure you have Python, Pandas, SQLite, and Jupyter installed.
 2. Clone this repository.
-3. Open the notebook and execute cells to load data, perform analysis, and answer project questions.
+3. Open the notebook and execute cells to load data, perform analysis, and answer the questions.
 
-## Assignment Problems
+## Project Problems
 
-The notebook addresses several assignment questions using SQL queries. You could find the answer here.
+The notebook addresses several questions using SQL queries. You could find the answer here.
 
 
 
