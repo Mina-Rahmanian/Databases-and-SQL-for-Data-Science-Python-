@@ -4,20 +4,6 @@
 
 This repository contains a Python Jupyter Notebook designed for the graded assessment involving analysis of three key datasets from Chicago. Using SQLite and Python, you will load these datasets, execute SQL queries, and derive insights based on the data.
 
-## Datasets
-
-### 1. Socioeconomic Indicators in Chicago
-- This dataset includes six socioeconomic indicators and a hardship index for each Chicago community area from 2008 to 2012.
-- [Dataset Details](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2)
-
-### 2. Chicago Public Schools
-- Data from the 2011-2012 school year, providing performance metrics for all public schools in Chicago.
-- [Dataset Details](https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t)
-
-### 3. Chicago Crime Data
-- Reported crime incidents in Chicago from 2001 to present, excluding the most recent seven days.
-- [Dataset Details](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
-
 ## Setup Instructions
 
 ### Requirements
