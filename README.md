@@ -1,4 +1,4 @@
-# Chicago Datasets Analysis with SQLite and Python
+# Chicago Datasets Analysis with SQLite & Python
 
 ## Introduction
 
